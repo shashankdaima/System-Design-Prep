@@ -3,7 +3,7 @@ This repository contains resources to learn System Design concepts and prepare f
 
 ## System Design Fundamentals
 
-- [ ] [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+- [*] [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
 - [ ] [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
 - [ ] [Distributed Caching](https://redis.com/glossary/distributed-caching/)
 - [ ] [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
@@ -51,7 +51,7 @@ This repository contains resources to learn System Design concepts and prepare f
 - [ ] [Design Leaderboard](https://systemdesign.one/leaderboard-system-design/)
 - [ ] [Design URL Shortener like TinyURL](https://www.youtube.com/watch?v=fMZMm_0ZhK4)
 - [ ] [Design Text Storage Service like Pastebin](https://www.youtube.com/watch?v=josjRSBqEBI)
-- [ ] [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
+- [*] [Design Content Delivery Network (CDN)](https://www.youtube.com/watch?v=8zX0rue2Hic)
 - [ ] [Design Parking Garage](https://www.youtube.com/watch?v=NtMvNh0WFVM)
 - [ ] [Design Vending Machine](https://www.youtube.com/watch?v=D0kDMUgo27c)
 - [ ] [Design Distributed Key-Value Store](https://www.youtube.com/watch?v=rnZmdmlR-2M)
